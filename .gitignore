@@ -1,0 +1,10 @@
+node_modules
+dist
+.next
+
+yarn-debug.log*
+yarn-error.log*
+tsconfig.tsbuildinfo
+
+.env
+.vercel
